@@ -1,2 +1,2 @@
 # ssm-demo1
-a small simple code
+An incomplete small project
